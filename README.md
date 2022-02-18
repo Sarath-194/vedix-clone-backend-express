@@ -24,16 +24,16 @@
 
 
 <h2>SnapShots</h2>
-<img src='./home-page/Home_page.png' width='70%' height='70%'/>
+<img src='./public/Home_page.png' width='70%' height='70%'/>
 <li>Home/Landing page</li>
 <br/>
-<img src='./home-page/Product_page.png' width='70%' height='70%'/>
+<img src='./public/Product_page.png' width='70%' height='70%'/>
 <li> Product page</li>
 <br/>
-<img src='./home-page/vedix_clone.png' width='70%' height='70%'/>
+<img src='./public/vedix_clone.png' width='70%' height='70%'/>
 <li>Skin-Quiz</li>
 <br/>
-<img src='./home-page/Checkout_page.png' width='70%' height='70%'/>
+<img src='./public/Checkout_page.png' width='70%' height='70%'/>
 <li> Checkout page</li>
 <br/>
 
